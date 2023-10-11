@@ -1,1 +1,1 @@
-# nedarvning-og-stacktrace
+Allan Chandler, cph-ac326@cphbusiness.dk
